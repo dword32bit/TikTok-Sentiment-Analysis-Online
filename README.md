@@ -3,6 +3,9 @@
 A Python application that performs sentiment analysis on TikTok video comments, combining web scraping capabilities with natural language processing to analyze user sentiment.
 
 🔗 Try it here: [TikTok Sentiment Analysis App](https://tiktok-sentiment-analysis.streamlit.app)
+---
+![image](https://github.com/user-attachments/assets/b7219bf7-08e2-46ab-bed8-62f02c025d35)
+---
 
 ## Features
 
