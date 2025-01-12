@@ -16,11 +16,6 @@ A Python application that performs sentiment analysis on TikTok video comments, 
 - Visualizes sentiment distribution through graphs
 - Streamlit web interface for easy interaction
 
-## Project Structure
-
-- `sentiment_analysis.py`: Main application with Streamlit interface and sentiment analysis logic
-- `scrapper.py`: TikTok data extraction module for comments and metadata
-
 ## Limitations
 
 - Requires valid TikTok video URLs
